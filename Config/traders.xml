@@ -1,0 +1,17 @@
+<configs>
+
+    <!-- Update Trader restock interval to 1 day -->
+    <set xpath="/traders/trader_info[@id='1']/@reset_interval">1</set>
+    <set xpath="/traders/trader_info[@id='2']/@reset_interval">1</set>
+    <set xpath="/traders/trader_info[@id='6']/@reset_interval">1</set>
+    <set xpath="/traders/trader_info[@id='7']/@reset_interval">1</set>
+    <set xpath="/traders/trader_info[@id='8']/@reset_interval">1</set>
+
+    <!-- Update Trader open time -->
+    <set  xpath="/traders/trader_info[@id='1']/@open_time">04:00</set>
+    <set  xpath="/traders/trader_info[@id='2']/@open_time">04:00</set>
+    <set  xpath="/traders/trader_info[@id='6']/@open_time">04:00</set>
+    <set  xpath="/traders/trader_info[@id='7']/@open_time">04:00</set>
+    <set  xpath="/traders/trader_info[@id='8']/@open_time">04:00</set>
+
+</configs>

@@ -1,0 +1,40 @@
+<configs>
+    <!-- Add non craftables that should be craftable -->
+    <append xpath="/recipes">
+
+        <!-- Add Acid as a craftable item in the Chemistry station -->
+        <!-- Make Localization reference, add schematic for learnable -->
+        <recipe name="resourceAcid" count="1" craft_area="chemistryStation" tags="learnable,chemStationCrafting" craft_time="90">
+            <ingredient name="carBattery" count="1" />
+            <ingredient name="drinkJarBoiledWater" count="3"/>
+        </recipe>
+
+         <!-- Add Solar Cell as a craftable Item -->
+        <recipe name="solarCell" count="1" material_based="true" craft_area="forge" tags="perkAdvancedEngineering" craft_tool="toolForgeCrucible" craft_time="300">
+            <ingredient name="unit_glass" count="200" />
+            <ingredient name="unit_lead" count="100" />
+            <ingredient name="unit_iron" count="100" />
+            <ingredient name="unit_clay" count="50" />
+        </recipe>
+
+        <!-- Add craftable Beaker to game -->
+        <recipe name="toolBeaker" count="1" material_based="true" craft_area="forge" tags="perkAdvancedEngineering" craft_tool="toolBellows" craft_time="300">
+            <ingredient name="unit_glass" count="500"/>
+            <ingredient name="unit_clay" count="100"/>
+            <ingredient name="unit_lead" count="50"/>
+            <ingredient name="unit_iron" count="10"/>
+            <effect_group>
+                <passive_effect name="CraftingIngredientCount" operation="perc_add" level="0,1,2,3,4" value=".25,.25,.25,.12,.06" tags="unit_clay,unit_glass"/>
+            </effect_group>
+        </recipe>
+
+    </append>
+
+    <!-- ======================================================================================================================================== -->
+    <!-- Update existing recipes -->
+
+    <!-- Update Farm Plot recipe to significantly reduce cost -->
+    <remove xpath="/recipes/recipe[@name='farmPlotBlockVariantHelper']/ingredient[@name='foodRottingFlesh']" />
+    <set xpath="/recipes/recipe[@name='farmPlotBlockVariantHelper']/ingredient[@name='resourcePotassiumNitratePowder']/@count">1</set>
+
+</configs>
