@@ -1,41 +1,73 @@
-# Days Gone Bye Mod
+### Days Gone Bye Mod: created by Chef Of Borks (2021)
+<br>
 
-**Version 0.7** - [Change log](CHANGELOG.md)
-
-Created by Chef Of Borks (2021)
----
+**Version 0.7.5** - [Change log](CHANGELOG.md)
+<br>
+<br>
 
 ## About
-Small mod to update Vanilla game play experience. The purpose of this is to relocate some perks into their own perk tree. This relocation is intended to alleviate the need to spend as many perk points that are currently needed into Perk trees to get these basic survival skills i.e. Master Chef. 
+This is a mod that came about to better improve multiplayer experience while running a *Horde every night* game scenario with some friends. The changes and updates in this mod have been tested and implemented to create a better playing experience from all players as vanilla implementation was found to not scale properly in multiplayer or a multiplayer *Horde every night* game scenario.
 
-### Below perks relocated to their own Survival Perk tree with the tree level requirement reduced to level 1 for all perks.
-- Master Chef
-- The Huntsman
-- Living Off the Land
-- Lockpicking
-- Lucky Looter
-- Salvage Operations
-- Updated Grease Monkey Perk levels from 2, 4, 6, 8, 10 to 1, 3, 5, 7, 10
-- Updated Sexual Tyrannosaurus level requirements from 1, 3, 5, 7 to 1, 2, 3, 5
+**This MOD is still a work in progress.**
 
-### Added recipes to Mod:
-- Acid recipe added
-- Acid schematic added
-- Solar Cell Recipe added
-- Beaker recipe added
-
-### Updated recipes to Mod:
-- Farmplot recipe cost reduced, now costs 4 wood, 1 nitride, and 100 clay
-
-### Trader Updates:
-- Set trader restock interval to one day
-- Set trader open time to 04:00
+---
 
 ## Requirements:
-- 7 Days to Die A20+
+> - 7 Days to Die A20+
+
+---
+
+### Intended audience use:
+> - Multiplayer with two or more players.
+
+---
+
+### Trader Updates
+> - Trader open time changed from 06:05 to 04:00 - **(DONE)**
+
+---
+
+### Player and Vehicle inventory storage
+> - Add lockable storage slots to player backpack
+> - Add lockable storage slots to vehicle storage
+
+---
+
+### Perk Changes
+>**Relocate basic survival perks to their own "Survival" perk tree**
+> - Perks relocated:
+>   - Lock Picking
+>   - Lucky Looter
+>   - Salvage Operations
+>   - Master Chef
+>   - The Huntsman
+>   - Living Off the Land
+
+>**Update to Perks**
+> - Grease Monkey
+>   - Update Intellect level requirements from **2, 4, 6, 8, 10** to **1, 3, 5, 7, 10**
+> - Sexual Tyrannosaurus
+>   - Update Strength level requirements from **1, 3, 5, 7** to **1, 2, 3, 5**
+> - Lockpicking
+>   - Update Lockpicking break chance reduction from **10%, 20%, 30%** to **20%, 40%, 60%**
+
+---
+
+### Recipe and Item changes
+>**New Recipes added**
+> - Add ability to craft Beaker to game, crafted in Forge, requires Bellows
+> - Add ability to craft Acid to game, unlocked via schematic and crafted in the Chemistry Station
+> - Add ability to craft solar cell to the game, Crafted in Forge, requires Crucible
+
+>**Update to current recipes in game**
+> - Update Farm plot recipe to reduce resource cost, removed rotting flesh requirement and reduced Nitrite Powder requirement to 1
+> - Update probability to find foodHoney from very low to low
+
+---
 
 ## How to install mod:
-- Download the *VanillaPerkUpdate* mod
-- Navigate to your 7 Days To Die folder location
-    - For Steam this will be ``Steam/SteamApps/common/7 Days To Die/Mods``
-- Paste the *VanillaPerkUpdate* folder in the **Mods** folder
+>- Download the *Days Gone Bye* mod
+>- Navigate to your 7 Days To Die folder location
+>    - For Steam this will be ``Steam/SteamApps/common/7 Days To Die/Mods``
+>    - If a Mods folder is not present, create one
+>- Paste the *Days Gone Bye* folder in the **Mods** folder

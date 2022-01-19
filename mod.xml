@@ -1,9 +1,9 @@
 <mod>
 	<info>
 		<author>Chef of Borks</author>
-		<name>VanillaPerkUpdate</name>
-		<description>Modlet to streamline perks by seperating general survival perks from current tree attributes</description>
-		<mod_version>0.7</mod_version>
+		<name>Days Gone Bye</name>
+		<description>Enhance Multiplayer play in an every night horde night scenario</description>
+		<mod_version>0.7.5</mod_version>
 		<game_version>20.0</game_version>
 		<launcher_version>0.7.3</launcher_version>
 	</info>
