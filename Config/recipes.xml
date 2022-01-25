@@ -29,7 +29,7 @@
         </recipe>
 
         <!-- Add craftable Sewing kit to game -->
-        <recipe name="resourceSewingKit" count="5" material_based="true" craft_area="workbench">
+        <recipe name="resourceSewingKit" count="5" material_based="true" craft_area="workbench" tags="workbenchCrafting" craft_time="60">
             <ingredient name="resourceForgedIron" count="1" />
             <ingredient name="resourceCloth" count="5" />
         </recipe>
