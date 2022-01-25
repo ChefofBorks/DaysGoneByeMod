@@ -1,5 +1,8 @@
 # Change Log
 
+## v0.7.6 - Jan 24th, 2022
+- Add recipe for Sewing Kits to recipes.xml
+
 ## v0.7.5 - Jan 18th, 2022
 - Update version in mod and modinfo.xml files
 - Push to remote repo
