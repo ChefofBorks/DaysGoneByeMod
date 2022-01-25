@@ -11,27 +11,39 @@ This is a mod that came about to better improve multiplayer experience while run
 **This MOD is still a work in progress.**
 
 ---
+<br>
 
 ## Requirements:
 > - 7 Days to Die A20+
 
+## How to install mod:
+>- Download the *Days Gone Bye* mod
+>- Navigate to your 7 Days To Die folder location
+>    - For Steam this will be ``Steam/SteamApps/common/7 Days To Die/Mods``
+>    - If a Mods folder is not present, create one
+>- Paste the *Days Gone Bye* folder in the **Mods** folder
+
 ---
+<br>
 
 ### Intended audience use:
 > - Multiplayer with two or more players.
 
 ---
+<br>
 
 ### Trader Updates
-> - Trader open time changed from 06:05 to 04:00 - **(DONE)**
+> - Trader open time changed from 06:05 to 04:00
 
 ---
+<br>
 
 ### Player and Vehicle inventory storage
 > - Add lockable storage slots to player backpack
 > - Add lockable storage slots to vehicle storage
 
 ---
+<br>
 
 ### Perk Changes
 >**Relocate basic survival perks to their own "Survival" perk tree**
@@ -52,22 +64,18 @@ This is a mod that came about to better improve multiplayer experience while run
 >   - Update Lockpicking break chance reduction from **10%, 20%, 30%** to **20%, 40%, 60%**
 
 ---
+<br>
 
 ### Recipe and Item changes
 >**New Recipes added**
 > - Add ability to craft Beaker to game, crafted in Forge, requires Bellows
 > - Add ability to craft Acid to game, unlocked via schematic and crafted in the Chemistry Station
 > - Add ability to craft solar cell to the game, Crafted in Forge, requires Crucible
+> - Add ability to craft Sewing Kits to the game, Crafted in workbench
 
 >**Update to current recipes in game**
 > - Update Farm plot recipe to reduce resource cost, removed rotting flesh requirement and reduced Nitrite Powder requirement to 1
 > - Update probability to find foodHoney from very low to low
 
 ---
-
-## How to install mod:
->- Download the *Days Gone Bye* mod
->- Navigate to your 7 Days To Die folder location
->    - For Steam this will be ``Steam/SteamApps/common/7 Days To Die/Mods``
->    - If a Mods folder is not present, create one
->- Paste the *Days Gone Bye* folder in the **Mods** folder
+<br>
