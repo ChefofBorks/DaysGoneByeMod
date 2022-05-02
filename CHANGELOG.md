@@ -1,5 +1,11 @@
 # Change Log
 
+## v0.8.2 - May 2nd, 2022
+- Update stack amount of first aid bandages and first aid kit from 5 to 25
+
+## v0.8.1 - May 2nd, 2022
+- Update Grease Monky perk desc_key to correct value of reqIntellectLevel10
+
 ## v0.8.0 - May 2nd, 2022
 - Move Influence perks from Intellect perk tree to General Survival perk tree
 
