@@ -13,6 +13,7 @@
     <!-- Add Tree Categories in General Survival Perk branch -->
     <append xpath="/progression/skills">
         <skill name="skillSurvivalGeneral" parent="attsurvival" name_key="skillSurvivalGeneralName" icon="ui_game_symbol_book"><effect_group/></skill>
+        <skill name="skillSurvivalInfluence" parent="attsurvival" name_key="skillSurvivalInfluenceName" icon="ui_game_symbol_influence"><effect_group/></skill>
         <skill name="skillSurvivalScavenging" parent="attsurvival" name_key="skillSurvivalScavengingName" icon="ui_game_symbol_hand"><effect_group/></skill>
         <skill name="skillSurvivalSurvival" parent="attsurvival" name_key="skillSurvivalSurvivalName" icon="ui_game_symbol_survival"><effect_group/></skill>
     </append>
@@ -66,6 +67,27 @@
     <set xpath="/progression/perks/perk[@name='perkLivingOffTheLand']/level_requirements/requirement/@progression_name">attsurvival</set>
     <set xpath="/progression/perks/perk[@name='perkLivingOffTheLand']/level_requirements/requirement/@value">1</set>
     <set xpath="/progression/perks/perk[@name='perkLivingOffTheLand']/level_requirements/requirement/@desc_key">reqSurvivalLevel01</set>
+
+    <!-- Better Barter -->
+    <set xpath="/progression/perks/perk[@name='perkBetterBarter']/@parent">skillSurvivalInfluence</set>
+    <set xpath="/progression/perks/perk[@name='perkBetterBarter']/@icon">ui_game_symbol_barter</set>
+    <set xpath="/progression/perks/perk[@name='perkBetterBarter']/level_requirements/requirement/@progression_name">attsurvival</set>
+    <set xpath="/progression/perks/perk[@name='perkBetterBarter']/level_requirements/requirement/@value">1</set>
+    <set xpath="/progression/perks/perk[@name='perkBetterBarter']/level_requirements/requirement/@desc_key">reqSurvivalLevel01</set>
+
+    <!-- Daring Adventurer -->
+    <set xpath="/progression/perks/perk[@name='perkDaringAdventurer']/@parent">skillSurvivalInfluence</set>
+    <set xpath="/progression/perks/perk[@name='perkDaringAdventurer']/@icon">ui_game_symbol_adventure</set>
+    <set xpath="/progression/perks/perk[@name='perkDaringAdventurer']/level_requirements/requirement/@progression_name">attsurvival</set>
+    <set xpath="/progression/perks/perk[@name='perkDaringAdventurer']/level_requirements/requirement/@value">1</set>
+    <set xpath="/progression/perks/perk[@name='perkDaringAdventurer']/level_requirements/requirement/@desc_key">reqSurvivalLevel01</set>
+
+    <!-- Charismatic Nature -->
+    <set xpath="/progression/perks/perk[@name='perkCharismaticNature']/@parent">skillSurvivalInfluence</set>
+    <set xpath="/progression/perks/perk[@name='perkCharismaticNature']/@icon">ui_game_symbol_talk</set>
+    <set xpath="/progression/perks/perk[@name='perkCharismaticNature']/level_requirements/requirement/@progression_name">attsurvival</set>
+    <set xpath="/progression/perks/perk[@name='perkCharismaticNature']/level_requirements/requirement/@value">1</set>
+    <set xpath="/progression/perks/perk[@name='perkCharismaticNature']/level_requirements/requirement/@desc_key">reqSurvivalLevel01</set>
 
     <!-- ======================================================================================================================================== -->
     <!-- Update existing Perks in current locations -->
