@@ -1,5 +1,8 @@
 # Change Log
 
+## v0.8.0 - May 2nd, 2022
+- Move Influence perks from Intellect perk tree to General Survival perk tree
+
 ## v0.7.6 - Jan 24th, 2022
 - Add recipe for Sewing Kits to recipes.xml
 

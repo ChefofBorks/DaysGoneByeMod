@@ -1,7 +1,7 @@
 ### Days Gone Bye Mod: created by Chef Of Borks (2021)
 <br>
 
-**Version 0.7.5** - [Change log](CHANGELOG.md)
+**Version 0.8.0** - [Change log](CHANGELOG.md)
 <br>
 <br>
 
@@ -54,6 +54,9 @@ This is a mod that came about to better improve multiplayer experience while run
 >   - Master Chef
 >   - The Huntsman
 >   - Living Off the Land
+>   - Better Barter
+>   - Daring Adventure
+>   - Charismatic Nature
 
 >**Update to Perks**
 > - Grease Monkey
