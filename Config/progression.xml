@@ -102,7 +102,7 @@
     <set xpath="/progression/perks/perk[@name='perkGreaseMonkey']/level_requirements[@level='2']/requirement/@desc_key">reqIntellectLevel03</set>
     <set xpath="/progression/perks/perk[@name='perkGreaseMonkey']/level_requirements[@level='3']/requirement/@desc_key">reqIntellectLevel05</set>
     <set xpath="/progression/perks/perk[@name='perkGreaseMonkey']/level_requirements[@level='4']/requirement/@desc_key">reqIntellectLevel07</set>
-    <set xpath="/progression/perks/perk[@name='perkGreaseMonkey']/level_requirements[@level='5']/requirement/@desc_key">reqIntellectLevel010</set>
+    <set xpath="/progression/perks/perk[@name='perkGreaseMonkey']/level_requirements[@level='5']/requirement/@desc_key">reqIntellectLevel10</set>
 
     <!-- Update level requirements for SexualTrex Perk -->
     <set xpath="/progression/perks/perk[@name='perkSexualTrex']/level_requirements[@level='1']/requirement/@value">1</set>
