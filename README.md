@@ -1,7 +1,7 @@
 ### Days Gone Bye Mod: created by Chef Of Borks (2021)
 <br>
 
-**Version 0.8.0** - [Change log](CHANGELOG.md)
+**Version 0.8.2** - [Change log](CHANGELOG.md)
 <br>
 <br>
 
@@ -79,6 +79,7 @@ This is a mod that came about to better improve multiplayer experience while run
 >**Update to current recipes in game**
 > - Update Farm plot recipe to reduce resource cost, removed rotting flesh requirement and reduced Nitrite Powder requirement to 1
 > - Update probability to find foodHoney from very low to low
+> - Update First Aid bandage and First Aid kit stack amount from 5 to 25
 
 ---
 <br>
