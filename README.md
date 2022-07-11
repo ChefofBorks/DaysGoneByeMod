@@ -1,7 +1,7 @@
 ### Days Gone Bye Mod: created by Chef Of Borks (2021)
 <br>
 
-**Version 0.8.2** - [Change log](CHANGELOG.md)
+**Version 0.8.5** - [Change log](CHANGELOG.md)
 <br>
 <br>
 
@@ -75,6 +75,7 @@ This is a mod that came about to better improve multiplayer experience while run
 > - Add ability to craft Acid to game, unlocked via schematic and crafted in the Chemistry Station
 > - Add ability to craft solar cell to the game, Crafted in Forge, requires Crucible
 > - Add ability to craft Sewing Kits to the game, Crafted in workbench
+> - Add Iron Machete to game, Crafted in workbench
 
 >**Update to current recipes in game**
 > - Update Farm plot recipe to reduce resource cost, removed rotting flesh requirement and reduced Nitrite Powder requirement to 1

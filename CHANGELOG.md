@@ -1,5 +1,10 @@
 # Change Log
 
+## v0.8.5 - July 11th, 2022
+- Add Iron Machete to game
+- Add Iron Machete schematic to game
+- Update localization files.
+
 ## v0.8.2 - May 2nd, 2022
 - Update stack amount of first aid bandages and first aid kit from 5 to 25
 

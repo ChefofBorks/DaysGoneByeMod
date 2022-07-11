@@ -29,9 +29,9 @@
     <set xpath="/progression/perks/perk[@name='perkLockPicking']/level_requirements/requirement/@desc_key">reqSurvivalLevel01</set>
     <set xpath="/progression/perks/perk[@name='perkLockPicking']/effect_group/passive_effect[@name='LockPickBreakChance']/@value">.2,.4,.6</set>
    
-    <set xpath="/progression/perks/perk[@name='perkLockPicking']/effect_group/effect_description[@level='1']/@long_desc_key">perkLockPickingRank1LongDescVPU</set>
-    <set xpath="/progression/perks/perk[@name='perkLockPicking']/effect_group/effect_description[@level='2']/@long_desc_key">perkLockPickingRank2LongDescVPU</set>
-    <set xpath="/progression/perks/perk[@name='perkLockPicking']/effect_group/effect_description[@level='3']/@long_desc_key">perkLockPickingRank3LongDescVPU</set>
+    <set xpath="/progression/perks/perk[@name='perkLockPicking']/effect_group/effect_description[@level='1']/@long_desc_key">perkLockPickingRank1LongDescDGB</set>
+    <set xpath="/progression/perks/perk[@name='perkLockPicking']/effect_group/effect_description[@level='2']/@long_desc_key">perkLockPickingRank2LongDescDGB</set>
+    <set xpath="/progression/perks/perk[@name='perkLockPicking']/effect_group/effect_description[@level='3']/@long_desc_key">perkLockPickingRank3LongDescDGB</set>
 
     <!-- LuckyLooter -->
     <set xpath="/progression/perks/perk[@name='perkLuckyLooter']/@parent">skillSurvivalScavenging</set>
