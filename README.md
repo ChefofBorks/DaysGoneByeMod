@@ -1,7 +1,7 @@
 ### Days Gone Bye Mod: created by Chef Of Borks (2021)
 <br>
 
-**Version 0.8.5** - [Change log](CHANGELOG.md)
+**Version 0.8.8** - [Change log](CHANGELOG.md)
 <br>
 <br>
 
@@ -76,6 +76,10 @@ This is a mod that came about to better improve multiplayer experience while run
 > - Add ability to craft solar cell to the game, Crafted in Forge, requires Crucible
 > - Add ability to craft Sewing Kits to the game, Crafted in workbench
 > - Add Iron Machete to game, Crafted in workbench
+> - Add Chicken Coop modlet. This modlet is made KhaineGB, author of the Darkness Falls mod which is awesome and you should support.
+>   - [7 Days to Die Forum - Darkness Falls](https://community.7daystodie.com/topic/4941-darkness-falls-they-mostly-come-out-at-night/)
+>   - [KhaineGB Youtube](https://www.youtube.com/channel/UC3yu4ucbt_3_KJAki5jncBg)
+>   - [KhaineGB Patreon](https://www.patreon.com/darknessfallsmod)
 
 >**Update to current recipes in game**
 > - Update Farm plot recipe to reduce resource cost, removed rotting flesh requirement and reduced Nitrite Powder requirement to 1
