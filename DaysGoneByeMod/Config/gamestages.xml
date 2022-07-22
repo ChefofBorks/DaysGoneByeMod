@@ -1,13 +1,13 @@
 <configs>
     <!-- Remove days alive reduction when killed -->
-    <set xpath="/gamestages/config/@daysAliveChangeWhenKilled">"0"</set>
+    <set xpath="/gamestages/config/@daysAliveChangeWhenKilled">0</set>
 
     <!-- Increase difficulty bonus from 1.2 to 1.5 -->
-    <set xpath="/gamestages/config/@difficultyBonus">"1.5"</set>
+    <set xpath="/gamestages/config/@difficultyBonus">1.5</set>
 
     <!-- Increase loot bonus max count during blood moons from 30 to 45 -->
-    <set xpath="/gamestages/config/@lootBonusMaxCount">"45"</set>
+    <set xpath="/gamestages/config/@lootBonusMaxCount">45</set>
 
     <!-- Increas blood moon loot bonus scaling from 25 to 35 -->
-    <set xpath="/gamestages/config/@lootBonusScale">"35"</set>
+    <set xpath="/gamestages/config/@lootBonusScale">35</set>
 </configs>

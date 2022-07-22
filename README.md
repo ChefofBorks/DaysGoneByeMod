@@ -21,7 +21,8 @@ This is a mod that came about to better improve multiplayer experience while run
 >- Navigate to your 7 Days To Die folder location
 >    - For Steam this will be ``Steam/SteamApps/common/7 Days To Die/Mods``
 >    - If a Mods folder is not present, create one
->- Paste the *Days Gone Bye* folder in the **Mods** folder
+>- Paste the *DaysGoneByeMod* folder in the **Mods** folder
+>- Paste the *Chicken Coop Modlet* folder in the **Mods** folder
 
 ---
 <br>
