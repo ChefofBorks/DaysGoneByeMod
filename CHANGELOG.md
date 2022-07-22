@@ -1,5 +1,14 @@
 # Change Log
 
+## v0.8.8 - July 21st, 2022
+- Added KhaineGB chicken coop modlet
+
+## v0.8.7 - July 21st, 2022
+- Updated gamestage reduction on death to 0
+- Updated blood moon loot bonus scaling from 25 to 35
+- Updated loot bonus max count during blood moons from 30 to 45
+- Updated difficulty bonus from 1.2 to 1.5
+
 ## v0.8.5 - July 11th, 2022
 - Add Iron Machete to game
 - Add Iron Machete schematic to game
